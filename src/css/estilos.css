@@ -28,7 +28,7 @@ body {
     text-align: center;
     line-height: 55px;
     font-family: "Raleway", sans-serif;
-    transition: 0.2s;
+    transition: 0.5s;
 }
 
 .cabecalho a:hover .logo {
